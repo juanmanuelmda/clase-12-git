@@ -1,0 +1,2 @@
+cache_limit = 100k
+ttl=2w
